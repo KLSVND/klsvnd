@@ -1,7 +1,7 @@
 ## Olá! me chamo Kleandro Lenke 🙋🏻‍♂️
-<div> 
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KLSVND&show_icons=true&theme=cobalt)
-</div>
+
   
 ##
  
