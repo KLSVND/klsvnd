@@ -9,7 +9,7 @@
 
 - 📫 Entre em contato comigo através deste email: **kleandrocontato@gmail.com**
 
-- ⚡ Fatos curiosos **Praticante de musculação, kickboxing e "corredor amador" (ou pelo menos tento haha!)**
+- ⚡ Fatos curiosos **Praticante de musculação e kickboxing (ou pelo menos tento haha!)**
 
 <h3 align="left">Conecte-se comigo:</h3>
 
