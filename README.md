@@ -1,22 +1,46 @@
-<h1 align="center">Olá, seja bem vindo me chamo Kleandro Lenke 🙋🏻‍♂️</h1>
-<h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas e Desenvolvedor de Software</h3>
+<div align="center">
 
-- 🔭 Atualmente estou trabalhando em **Aprimorar e lapidar minhas habilidades**
+# Kleandro Lenke
 
-- 🌱 Atualmente estou aprendendo **Imersão em testes e dando início ao aprendizado em desenvolvimento front-end**
+**Backend Developer** · Node.js · TypeScript · SQL · APIs REST
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [Em breve]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleandrolenke/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kleandrocontato@gmail.com)
 
-- 📫 Entre em contato comigo através deste email: **kleandrocontato@gmail.com**
+</div>
 
-- ⚡ Fatos curiosos **Praticante de musculação e kickboxing (ou pelo menos tento haha!)**
+---
 
-<h3 align="left">Conecte-se comigo:</h3>
+Desenvolvedor Backend com experiência em sistemas ERP para e-commerce, banco de dados em produção e integração entre sistemas.
+Foco atual em construir APIs REST sólidas com Node.js, TypeScript e boas práticas de arquitetura.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleandrolenke/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/klsvnd)
+---
 
+## Stack
 
+**Backend & Linguagens**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klsvnd&show_icons=true&theme=transparent)
+**Banco de dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klsvnd&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+
+</div>
